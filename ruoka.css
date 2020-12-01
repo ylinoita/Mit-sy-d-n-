@@ -1,13 +1,11 @@
 body {background-color: #191970;
        margin: 0;}
 
-#ebin {
-    display: flex;
-    align-items: center;
-    font-size: 10vw;
+#ebin 
+    font-size: 8rem;
     text-align: center;
-    height: 25vh;
-    line-height: 25vh;
+    height: 10vh;
+    line-height: 10vh;
     color: #FFFFE0;
     font-family: georgia;
     font-weight; bold;

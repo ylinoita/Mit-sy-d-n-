@@ -2,7 +2,6 @@ body {background-color: #191970;
        margin: 0;}
 
 #ebin {
-    position: relative;
     display: flex;
     align-items: center;
     font-size: 10vw;

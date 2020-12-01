@@ -8,6 +8,7 @@ let quotes=[
 	'Pasta carbonara',
 	'Borsch-keitto',
 	'Aloo gobi',
+	'Paistetut muikut',
 	'Kana + kermaperunat',
 	'Orzovuoka',
 	'Tattipasta',

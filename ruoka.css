@@ -4,6 +4,7 @@ body {background-color: #191970;
 #ebin {
     position: relative;
     display: flex;
+    align-items: center;
     font-size: 8rem;
     text-align: center;
     height: 25vh;

@@ -1,0 +1,58 @@
+body {background-color: #191970;}
+
+#ebin {
+    font-size: 8rem;
+    text-align: center;
+    height: 25vh;
+    line-height: 25vh;
+    color: #FFFFE0;
+    font-family: georgia;
+    font-weight; bold;
+    font-style: italic;
+    text-shadow: 5px 5px 0px #eb452b, 
+                  10px 10px 0px #FF7F50, 
+                  15px 15px 0px #A52A2A, 
+                  20px 20px 0px #483D8B, 
+                  25px 25px 0px #052939;}
+
+.content{
+    max-width: 600px;
+    padding:20px;
+    margin:auto;
+    justify-content: center;
+    align-items: center;}
+
+.card{
+    padding:15px 30px 15px 30px;
+    max-width:500px;
+    max-height:200px;
+    text-align: center;
+    border-radius: 5px;
+    border-top: #ee9be4 5px;
+    margin-top: 20px;
+    bottom: auto;}
+
+.btn{
+    height:50px;
+    width:150px;
+    font-family: georgia;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    color:#FFFFE0;
+    background-color: red;
+  border-radius: 1em;
+}
+
+.btn:hover {
+    background-color: #A52A2A;
+}
+
+button:focus {outline: none;}
+
+p{
+  font-family:georgia;
+  font-size: 28px;
+  font-weight: bold;
+  color: #FFD700;
+  text-transform: uppercase;}

@@ -1,4 +1,5 @@
-body {background-color: #191970;}
+body {background-color: #191970;
+       margin: 0;}
 
 #ebin {
     font-size: 8rem;

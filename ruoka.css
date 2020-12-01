@@ -2,6 +2,7 @@ body {background-color: #191970;
        margin: 0;}
 
 #ebin {
+    position: relative;
     font-size: 8rem;
     text-align: center;
     height: 25vh;

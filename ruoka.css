@@ -3,6 +3,7 @@ body {background-color: #191970;
 
 #ebin {
     position: relative;
+    display: flex;
     font-size: 8rem;
     text-align: center;
     height: 25vh;
